@@ -1,7 +1,8 @@
 # generate-key-insights-from-the-story
 
 ### Overview
-It analyzes a long story discussing various topics like career guidance, productivity, and life hacks. And extracts specific insights (e.g., generate productivity-related insights when prompted).
+It analyzes a long story discussing various topics like career guidance, productivity, and life hacks. And extracts specific insights (e.g., productivity-related insights, what to learn).
+<br>
 This is not a machine learning project. It uses Rule-Based NLP Model which uses predefined rules and heuristics which is manually crafted scoring mechanism.
 
 ### Feature
